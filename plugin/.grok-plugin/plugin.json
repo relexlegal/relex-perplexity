@@ -1,7 +1,7 @@
 {
   "name": "relex-legal",
   "displayName": "Relex Legal for Perplexity",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Drive Relex legal cases from Perplexity over a PII-safe MCP connector.",
   "author": {
     "name": "Relex",
