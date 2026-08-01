@@ -1,6 +1,6 @@
 # Connect Relex in Perplexity
 
-**You need:** a Perplexity plan that allows custom connectors (typically Pro / Max / Enterprise), and a free Relex account at [relex.you](https://relex.you).
+**You need:** a Perplexity plan that allows custom connectors (typically Pro / Max / Enterprise), and a free Relex account at [relex.legal](https://relex.legal).
 
 ## Personal account
 
@@ -9,7 +9,7 @@
 3. Select **Remote**
 4. Fill in:
    - **Name:** Relex  
-   - **MCP Server URL:** `https://relex.you/api/mcp`  
+   - **MCP Server URL:** `https://relex.legal/api/mcp`  
    - **Auth:** OAuth (recommended)  
    - Transport: Streamable HTTP if asked  
 5. Confirm any risk acknowledgement → **Add**

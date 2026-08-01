@@ -10,12 +10,12 @@ assistant — **without client names or documents ever leaving a sealed vault**.
 1. Open [Perplexity → Account settings → Connectors](https://www.perplexity.ai/account/connectors)
 2. **+ Custom connector** → choose **Remote**
 3. Name: **Relex**  
-   MCP Server URL: `https://relex.you/api/mcp`  
+   MCP Server URL: `https://relex.legal/api/mcp`  
    Auth: **OAuth** (preferred)
 4. Add → when asked, **Connect** and sign in to Relex (Google or Apple)
 5. In a chat, use Relex tools / say: *Set up my practice workflow with Relex*
 
-Full non-technical guide: **https://relex.you/docs/connectors/perplexity**
+Full non-technical guide: **https://relex.legal/docs/connectors/perplexity**
 
 ## Team / Enterprise
 
@@ -30,7 +30,7 @@ Admin install does **not** sign members in automatically.
 
 ```
 plugin/
-  .mcp.json          → https://relex.you/api/mcp
+  .mcp.json          → https://relex.legal/api/mcp
   skills/            → PII-safe legal workflow skills
   commands/          → relex-setup, relex-connect
   agents/            → relex-guide

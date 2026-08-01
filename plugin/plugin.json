@@ -1,13 +1,13 @@
 {
   "name": "relex-legal",
   "displayName": "Relex Legal for Perplexity",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Drive Relex legal cases from Perplexity over a PII-safe MCP connector.",
   "author": {
     "name": "Relex",
-    "url": "https://relex.you"
+    "url": "https://relex.legal"
   },
-  "homepage": "https://relex.you/docs/connectors/perplexity",
+  "homepage": "https://relex.legal/docs/connectors/perplexity",
   "repository": "https://github.com/relexyou/relex-perplexity",
   "license": "AGPL-3.0-or-later",
   "keywords": [
