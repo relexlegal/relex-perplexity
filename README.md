@@ -40,11 +40,11 @@ Same MCP server as Claude, ChatGPT, Grok, Gemini, and generic hosts.
 
 ## Sibling packages
 
-- [relex-claude](https://github.com/relexyou/relex-claude)
-- [relex-gpt](https://github.com/relexyou/relex-gpt)
-- [relex-grok](https://github.com/relexyou/relex-grok)
-- [relex-gemini](https://github.com/relexyou/relex-gemini)
-- [relex-mcp](https://github.com/relexyou/relex-mcp)
+- [relex-claude](https://github.com/relexlegal/relex-claude)
+- [relex-gpt](https://github.com/relexlegal/relex-gpt)
+- [relex-grok](https://github.com/relexlegal/relex-grok)
+- [relex-gemini](https://github.com/relexlegal/relex-gemini)
+- [relex-mcp](https://github.com/relexlegal/relex-mcp)
 
 ## License
 
