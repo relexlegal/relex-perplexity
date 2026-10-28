@@ -85,11 +85,11 @@ AGPL-3.0-or-later — see [LICENSE](LICENSE).
 
 ## MCP tools (remote server)
 
-The hosted connector at `https://relex.legal/api/mcp` exposes **twelve** tools:
+The hosted connector at `https://relex.legal/api/mcp` exposes **thirteen** tools:
 `list_matters`, `read_matter_context`, `read_matter_source`, `diagnose_matter_sources`,
 `save_matter_work_product`, `correct_matter_ontology`, `conclude_matter_session`,
 `find_legal_professionals`, `read_legal_professional`, `prepare_professional_request`,
-`search`, and `execute`. Auth is OAuth 2.1 + PKCE; connector scopes are
+`search`, `read_api`, and `execute`. Auth is OAuth 2.1 + PKCE; connector scopes are
 `relex.cases.read relex.cases.write relex.draft`.
 
 Perplexity custom MCP / connector flows use the same remote URL and OAuth; follow Perplexity’s current connector settings.
