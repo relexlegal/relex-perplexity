@@ -27,4 +27,4 @@ If OAuth is unavailable in your UI, create an API key in Relex **Settings → AP
 
 ## Safety
 
-Client names and documents stay encrypted in the browser. Perplexity only works with labels like `[Party 1]`.
+Client names and documents stay encrypted in the browser. Perplexity only works with labels like `[PARTY_NAME_1]`.

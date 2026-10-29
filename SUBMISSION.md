@@ -23,7 +23,7 @@ connector; (2) a curated Connector Marketplace listing is by partnership
 proposal (form on perplexity.ai or connectors@perplexity.ai).
 
 ## Done in this branch / backend
-- [x] Plugin 0.1.7; SECURITY.md reading default corrected; skills audited.
+- [x] Plugin 0.1.8; SECURITY.md reading default corrected; skills audited.
 - [x] Backend: the OAuth consent screen now names "Perplexity" when the redirect goes to `www.perplexity.ai` / `enterprise.perplexity.ai` (`functions/src/oauth.py` VERIFIED_REDIRECT_HOSTS, test in `test_oauth_pkce.py`). Redirect `https://www.perplexity.ai/rest/connections/oauth_callback` is accepted (any https redirect is).
 - [x] Logo `plugin/assets/logo.png` is 28 KB (limit 128 KB).
 
