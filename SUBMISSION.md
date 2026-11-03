@@ -1,5 +1,7 @@
 # Submission — Perplexity
 
+> **Status 2026-11-03 (Europe/Berlin):** Repo is public (gitleaks clean). Marketplace proposal not sent; package and draft email in `_submissions/perplexity/`.
+
 > Prepared 2026-10-28; updated the same day for MCP server version 1.1.0
 > (branch `docs/read-api-1.1.0`). Nothing has been submitted. The backend with
 > neutral server instructions, data-only responses and the `read_api` tool is
